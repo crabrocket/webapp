@@ -1,0 +1,7 @@
+Started GET "/" for ::1 at 2016-12-11 15:02:11 +0200
+Processing by ApplicationController#hello as HTML
+  Rendering html template
+  Rendered html template (0.1ms)
+Completed 200 OK in 50ms (Views: 33.5ms | ActiveRecord: 0.0ms)
+
+
